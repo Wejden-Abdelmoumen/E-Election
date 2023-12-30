@@ -4,10 +4,16 @@ E-Election est une simple application cmd pour la gestion des élections des ét
 E-Election assure aussi les tâches suivantes :
 
 ●Créer un nouveau compte « administrateur » ou « candidat »ou simple utilisateur.
+
 ●Créer une nouvelle élection.
+
 ●Mise à jour des informations des candidats.
+
 ●Afficher et gérer les élections.
+
 ●Afficher le résultat.
+
 ●Afficher la liste des votes.
+
 
 Cette Application permet aussi de mettre à jour les informations des administrateurs, permet aux utilisateurs de voter et assure une gestion d'erreurs.
